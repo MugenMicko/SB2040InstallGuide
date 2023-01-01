@@ -23,7 +23,7 @@ Optional (but may fix issues if your network doesnt start up)
 
 You can flash candlelight firmware on many of the common boards (UTOC/U2C/Canable) with the following instructions
 
-./candlelight_fw.md
+https://github.com/maz0r/klipper_canbus/blob/main/controller/candlelight_fw.md
 
 Suggested troubleshooting
 If nothing shows up, try completely powering off printer and restarting it
