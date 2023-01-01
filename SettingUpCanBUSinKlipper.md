@@ -12,7 +12,7 @@ iface can0 can static
 
 and press Ctrl+X to save.
 
-you can now reboot the pi with sudo reboot
+you can now reboot the pi with ```sudo reboot```
 
 Test the network
 Once the pi has rebooted you can run the ip -s link show can0 command to check your network status.
