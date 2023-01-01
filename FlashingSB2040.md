@@ -1,4 +1,4 @@
-**Setting up the SB2040 + CanBoot on my RPi **
+**Flashing CanBoot and Klipper to the SB2040**
 
 Steps:
 Clone the CanBoot git repository
