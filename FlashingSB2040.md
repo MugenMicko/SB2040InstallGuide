@@ -8,19 +8,24 @@ Steps:
 * Flash Klipper to the SB2040
 
 Clone the CanBoot git repository
+
 Turn on the printer and SSH into the RPi
 
 Execute the following commands:
 
-cd ~
+```cd ~
 git clone https://github.com/Arksine/CanBoot
 This results in the creation and population of directory ~/CanBoot
+```
 
 Build the CanBoot bootloader
+
 Execute the following commands:
 
-cd ~/CanBoot
+```cd ~/CanBoot
 make menuconfig
+```
+
 Here is a screenshot of the settings I used for the make menuconfig step:
 
 Please note that my CAN network is configured with bus speed set to 1000000
