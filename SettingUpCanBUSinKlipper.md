@@ -21,7 +21,8 @@ You should see a line like the below in the results. The key thing to note is th
 
 ![image](https://user-images.githubusercontent.com/105763933/210177289-ba61dd74-a634-4e04-8153-09a5b6645be3.png)
 
-Can2USB firmware for Canable/U2C/UTOC boards
+**Can2USB firmware for Canable/U2C/UTOC boards**
+
 Optional (but may fix issues if your network doesnt start up)
 
 You can flash candlelight firmware on many of the common boards (UTOC/U2C/Canable) with the following instructions
