@@ -1,4 +1,5 @@
 PI Setup
+
 ```sudo nano /etc/network/interfaces.d/can0```
 
 ```allow-hotplug can0
@@ -6,7 +7,9 @@ iface can0 can static
  bitrate 1000000
  up ifconfig $IFACE txqueuelen 256
  pre-up ip link set can0 type can bitrate 1000000
- pre-up ip link set can0 txqueuelen 256```
+ pre-up ip link set can0 txqueuelen 256
+```
+
 and press Ctrl+X to save.
 
 you can now reboot the pi with sudo reboot
