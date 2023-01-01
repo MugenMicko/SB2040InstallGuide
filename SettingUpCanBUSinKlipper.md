@@ -39,4 +39,4 @@ https://www.klipper3d.org/CANBUS.html
  
 https://www.waveshare.com/wiki/RS485_CAN_HAT
 
-[Return to Main]
+[Return to Main](https://github.com/MugenMicko/SB2040InstallGuide)
