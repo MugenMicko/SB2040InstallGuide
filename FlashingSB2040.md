@@ -1,11 +1,11 @@
 **Flashing CanBoot and Klipper to the SB2040**
 
 Steps:
-Clone the CanBoot git repository
-Build the CanBoot bootloader
-Flash CanBoot on the SB2040
-Build Klipper for the SB2040
-Flash Klipper to the SB2040
+* Clone the CanBoot git repository
+* Build the CanBoot bootloader
+* Flash CanBoot on the SB2040
+* Build Klipper for the SB2040
+* Flash Klipper to the SB2040
 
 Clone the CanBoot git repository
 Turn on the printer and SSH into the RPi
