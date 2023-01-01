@@ -15,8 +15,9 @@ Execute the following commands:
 
 ```cd ~
 git clone https://github.com/Arksine/CanBoot
-This results in the creation and population of directory ~/CanBoot
+cd ~/CanBoot
 ```
+This results in the creation and population of directory ~/CanBoot
 
 Build the CanBoot bootloader
 
