@@ -28,6 +28,7 @@ make menuconfig
 ```
 
 Here is a screenshot of the settings I used for the make menuconfig step:
+![image](https://user-images.githubusercontent.com/105763933/210177706-8b2beef4-4426-4ab0-beaf-34ac8b51f8b6.png)
 
 Please note that my CAN network is configured with bus speed set to 1000000
 
