@@ -1,4 +1,4 @@
-PI Setup
+**PI Setup**
 
 ```sudo nano /etc/network/interfaces.d/can0```
 
